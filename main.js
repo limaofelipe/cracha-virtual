@@ -1,7 +1,7 @@
 const linksSocialMedia = {
   github: "limaofelipe",
-  youtube: "cadeachave",
-  facebook: "maykbrito",
+  youtube: "apresenta",
+  facebook: "felipetorres0812",
   instagram: "limao.felipe",
   twitter: "twitterbrasil"
 }

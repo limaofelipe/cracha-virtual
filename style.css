@@ -20,10 +20,11 @@
     }
 
     main {
-      background: url(images/background.svg );
+      background: url(images/background.svg ) no-repeat center/cover;
       background-color: var(--black);
-      width: 375px;
-      height: 812px;
+      width: 100vw;
+      min-height: 812px;
+      height: 100vh;
     }
 
     .container {
@@ -40,11 +41,11 @@
       position: relative
     }
 
-  /*   .avatar span{
+      .avatar span{
       position: absolute;
       top: -15px;
       z-index: 1;
-    } */
+    }
 
     .avatar > img {
       width: 10rem;
